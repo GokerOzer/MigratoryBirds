@@ -1,3 +1,7 @@
+    [HackerRank Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
+    
+    
+    
     using System.CodeDom.Compiler;
     using System.Collections.Generic;
     using System.Collections;
